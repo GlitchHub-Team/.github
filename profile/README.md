@@ -22,7 +22,5 @@
 | Riccardo Graziani      | 2101054   |
 | Siria Salvalaio        | 2075520   |
 
-## Contatti:
 
-Email: [glitchhubteam@gmail.com](mailto:glitchhubteam@gmail.com)<div style="text-align: right">
 </div>
